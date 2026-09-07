@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Trade",
+  "description": "Minimalist modern trading platform with real-time analytics and custom visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
